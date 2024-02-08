@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 | CS-665       | Software Design & Patterns |
 |--------------|----------------------------|
@@ -125,3 +126,6 @@ The HTML page will be found at the following location:
 
 
 
+=======
+# CS665-Software-Design-and-Patterns
+>>>>>>> 42dc12059331ed0d55cd3f7d14119b924b3cf42a
