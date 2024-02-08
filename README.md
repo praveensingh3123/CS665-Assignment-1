@@ -11,7 +11,7 @@
 The objective of this assignment is to create a Beverage vending machine using the Strategy pattern.
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+https://github.com/praveensingh3123/CS665-Assignment-1
 
 # Implementation Description 
 
